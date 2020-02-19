@@ -37083,6 +37083,7 @@ try {
  */
 
 
+token = document.head.querySelector('meta[name="csrf-token"]');
 window.axios = __webpack_require__(/*! axios */ "./node_modules/axios/index.js");
 window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 /**
