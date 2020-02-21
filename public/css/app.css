@@ -10896,7 +10896,7 @@ nav.navbar.navbar-expand-lg {
 /* footer */
 
 footer {
-  margin-top: 45px;
+  margin: 45px 0 20px 0;
   padding-top: 5px;
   border-top: 1px solid #eaeaea;
   color: #777;
